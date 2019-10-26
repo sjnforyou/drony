@@ -47,6 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   children: <Widget>[
                     new Padding(
                       padding: const EdgeInsets.fromLTRB(17.0, 4.0, 10.0, 16.0),
+  #padding field
                     ),
 
                     new Text(
